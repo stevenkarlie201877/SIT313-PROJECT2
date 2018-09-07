@@ -1,2 +1,2 @@
-Which is a IOS platform running App.
+Which is a cross platform running App.
 Thanks
