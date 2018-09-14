@@ -7,6 +7,7 @@ using Plugin.Permissions;
 using Android.Content.PM;
 using Plugin.CurrentActivity;
 
+
 namespace MyWeather.Droid
 {
     [Activity(Label = "@string/app_name",
