@@ -1,1 +1,0 @@
-images from online resources
