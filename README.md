@@ -11,8 +11,8 @@ Week 7
   
   
 Week 8
-  Splash screen, Icon, Location, APIs, MVVM and the websever database have been implemented during the project, we plan to finish synchronization and security in week 9, as the same time, we were ensuring Github is follow the process of the project design.
+  Location, APIs, MVVM and the websever database have been implemented during the project, we plan to finish synchronization and security in week 9, as the same time, we were ensuring Github is follow the process of the project design.
   
   
 Week 9
-  Synchronization and security have done successful and we try to debug the application to make sure application is running perfect without any bugs and promise good experience for the user.
+  Splash screen, Icon have done successful and we try to debug the application to make sure application is running perfect without any bugs and promise good experience for the user. In our plan, synchronization and security will be finished next week.
